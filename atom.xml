@@ -6,7 +6,7 @@
   <link href="https://hexohsinfenghuangvercel.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://hexohsinfenghuangvercel.vercel.app/"/>
-  <updated>2025-08-05T04:57:11.197Z</updated>
+  <updated>2025-08-05T07:44:31.880Z</updated>
   <id>https://hexohsinfenghuangvercel.vercel.app/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vercel</title>
+    <link href="https://hexohsinfenghuangvercel.vercel.app/2025/08/05/vercel/"/>
+    <id>https://hexohsinfenghuangvercel.vercel.app/2025/08/05/vercel/</id>
+    <published>2025-08-05T07:44:16.000Z</published>
+    <updated>2025-08-05T07:44:31.880Z</updated>
+    
+    <content type="html"><![CDATA[<p>vercel</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;vercel&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -29,27 +50,6 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>gitlab</title>
-    <link href="https://hexohsinfenghuangvercel.vercel.app/2025/08/05/gitlab/"/>
-    <id>https://hexohsinfenghuangvercel.vercel.app/2025/08/05/gitlab/</id>
-    <published>2025-08-05T06:37:43.000Z</published>
-    <updated>2025-08-05T06:37:56.003Z</updated>
-    
-    <content type="html"><![CDATA[<p>gitlab</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;gitlab&lt;/p&gt;
-</summary>
       
     
     
